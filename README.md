@@ -33,6 +33,6 @@ VLAN Zuweisung, MAC-Adresse Docking Station.
 ---
 
 ## Tools
-#### [Struktogramme](https://dditools.inf.tu-dresden.de/dev/struktog)
-#### [EduRoam Anleitungen](https://faq.tickets.tu-dresden.de/otrs/public.pl?Action=PublicFAQSearch;Subaction=Search;Keyword=eduroam)
-#### [VPN Anleitung](https://tu-dresden.de/zih/dienste/service-katalog/arbeitsumgebung/zugang_datennetz/vpn)
+* **[Struktogramme](https://dditools.inf.tu-dresden.de/dev/struktog)**
+* **[EduRoam Anleitungen](https://faq.tickets.tu-dresden.de/otrs/public.pl?Action=PublicFAQSearch;Subaction=Search;Keyword=eduroam)**
+* **[VPN Anleitung](https://tu-dresden.de/zih/dienste/service-katalog/arbeitsumgebung/zugang_datennetz/vpn)**
